@@ -1,5 +1,9 @@
 # Zomato City Performance Dashboard
 
+
+https://github.com/user-attachments/assets/4482d687-4140-424f-a6c1-e371f151b698
+
+
 ## Overview
 
 This project involves a comprehensive data dashboard created for Zomato, focusing on city-level performance metrics. The dashboard provides insights into various aspects such as sales, orders, ratings, gained and lost customers, and user demographics. The primary goal was to analyze and present data in an interactive and visually appealing manner to aid business decision-making and strategic planning.
